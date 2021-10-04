@@ -1,5 +1,5 @@
 # ML-Notebooks
-Some interesting ML-notebooks created for hobby and tasks
+Some interesting ML-notebooks created for hobby and proyects.
 
 
 - **Unknow objects segmentation on RGB-D images.ipynb**  
