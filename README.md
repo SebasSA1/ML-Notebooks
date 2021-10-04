@@ -2,7 +2,7 @@
 Some interesting ML-notebooks created for hobby and proyects.
 
 - **Adipose tissue segmentation in TAC images.ipynb**  
- Construction of a model capable of segmenting the adipose tissue in the neck (subcutaneous and deep) in order to serve as an indicator for sarcopenic obesity
+ Construction of a UNET-model capable of segmenting the adipose tissue in the neck (subcutaneous and deep) in order to serve as an indicator for sarcopenic obesity
 
 - **Unknow objects segmentation on RGB-D images.ipynb**  
  Segmentation of unknown objects in RGB-Depth images using a UNET and the WISDOM-SIM + WISDOM-REAL training dataset
