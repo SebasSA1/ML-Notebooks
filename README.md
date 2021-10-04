@@ -8,6 +8,9 @@ Some interesting ML-notebooks created for hobby and proyects.
  - **Pretrained CNN keras.ipynb**  
  Image classification for DeepWeeds dataset using pretrained architectures like Incpetion, ResNeT 50 and Exception 
 
+ - **PCA & Logistic Regressor for image clasification.ipynb**  
+ Principal Component Analysis and Logistic regression for classify images with sign language.
+
  - **ML for music clasification.ipynb**  
  Multi Layer Perceptron to clasify song in generes like Jazz and Blue or Soul and Reggae
 
