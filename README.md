@@ -14,6 +14,9 @@ Some interesting ML-notebooks created for hobby and proyects.
  - **PCA & Logistic Regressor for image clasification.ipynb**  
  Principal Component Analysis and Logistic regression for classify images with sign language.
 
+ - **SVM in CIFAR-10.ipynb**  
+ Image classification of CIFAr-10 dataset with Support Vector Machine and Random Forest.
+
  - **ML for music clasification.ipynb**  
  Multi Layer Perceptron to clasify song in generes like Jazz and Blue or Soul and Reggae
 
